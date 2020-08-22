@@ -1,5 +1,5 @@
 # Delia-Peiro_Portfolio
-Data science portfolio
+Data Science portfolio
 
 # [PROJECT 1: OVERVIEW: Credit Card Fraud Detection from Kaggle dataset](https://delia-peiro.github.io/Credit-Card-Fraud-Detection/)
 * Goal: Be able to classify fraudulent or genuine credit card transactions.
