@@ -38,7 +38,7 @@ Data Science portfolio
 * CONVOLUTIONAL NEURAL NETWORK
 * RESULTS AND PERFORMANCE
 
-# [PROJECT 5: OVERVIEW: Tweets sentiment classification with DCNN from From course Procesamiento del Lenguaje Natural Moderno en Python instructed by Juan Gabriel Gomila Salas, Martin Jocqueviel, Kirill Eremenko, Hadelin de Ponteves and SuperDataScience Team]( https://delia-peiro.github.io/Tweets-sentiment-classification-with-DCNN/)
+# [PROJECT 5: OVERVIEW: Tweets sentiment classification with DCNN from From course Procesamiento del Lenguaje Natural Moderno en Python instructed by Juan Gabriel Gomila Salas  and SuperDataScience Team]( https://delia-peiro.github.io/Tweets-sentiment-classification-with-DCNN/)
 * Goal: Be able to make a sentiment classification of tweets
 * CLEANING THE TWEETS & TOKENIZER
 * DEEP CONVOLUTIONAL NEURAL NETWORK
